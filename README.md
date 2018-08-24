@@ -5,7 +5,7 @@
 `uast-viewer` is the simplest way to visualize [Universal Abstract Syntax Trees (UASTs)](https://doc.bblf.sh/uast/specification.html).
 
 ## Features
-
+ 
  - Drop-in component to display a UAST. [Example](https://uast-viewer.bblf.sh/#!/Uncontrolled)
  - Get full control of the tree. [Example](https://uast-viewer.bblf.sh/#!/Controlled)
  - Integration with online source code editor [Example](https://uast-viewer.bblf.sh/#!/With%20source%20code)
